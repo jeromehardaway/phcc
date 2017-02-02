@@ -1,12 +1,3 @@
-## SB Admin v2.0 rewritten in React.js
-
-[![Join the chat at https://gitter.im/start-react/sb-admin-react](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/start-react/sb-admin-react?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
-This project is a port of the famous Free Admin Bootstrap Theme [SB Admin v2.0](http://startbootstrap.com/template-overviews/sb-admin-2/) to React.js Theme based on [React Starter Kit](https://github.com/kriasoft/react-starter-kit) using ES6 & Webpack.
-
-Find out more [Free React.js and React Native Themes at StartReact.com](http://www.startreact.com/).
-
-## [Demo](http://sb-admin-react-seed.geekydev.com:3010/)
 
 ## Installation
 ####1. Clone this project or Download that ZIP file
